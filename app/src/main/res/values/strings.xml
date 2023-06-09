@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JetCharApp</string>
+    <string name="character_name">Name</string>
+    <string name="desc">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="share">Share</string>
+    <string name="profile_name">M Aldiansyah Ali</string>
+    <string name="profile_email">aldiansyahali717@gmail.com</string>
+    <string name="character_image">Image</string>
+    <string name="height_weight">Height / Weight :</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="menu_home">Home</string>
+    <string name="about_page">About</string>
+    <string name="back">Back</string>
+    <string name="favorite">Favorite</string>
+</resources>
