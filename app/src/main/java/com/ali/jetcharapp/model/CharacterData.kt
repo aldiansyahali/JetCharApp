@@ -108,5 +108,13 @@ object CharacterData {
             "\n" + "L has a sweet tooth, and can often be found crouching instead of sitting normally while snacking on cakes. He is adept at mind games and much like a child, is willing to do almost anything to win, aided by his mysterious, impassive expression and his monotonous voice, which make him impossible to read.",
             "https://cdn.anime-planet.com/characters/primary/l-death-note-1.jpg?t=1625773305"
         ),
+        Character(
+            16,
+            "Ken Kaneki (金木 研)",
+            "Tokyo Ghoul",
+            "Originally born as a human, his encounter with a female ghoul under the name of Kamishiro Rize forced him to undergo emergency surgery procedures after his assault by her. Cunning and manipulative, Rize uses her charms and Kaneki's attraction toward her as a means of getting her next \"meal.\" After the attack, Kaneki is rushed to the hospital in a half-dead state with Rize. A doctor of the name Kanou, who secretly experiments with ghouls, humans, and half-ghouls, transplants what Kaneki believes to be a kidney into his body as a means of saving his life in the dire situation. Soon he learns that he had part of Rize's kagune transplanted into him, becoming the first of many human-ghoul experiments Kanou will conduct. \n" +
+                    "\n" + "Due to the unnatural abundance of RC Cells now present in his body because of Rize's kagune, Kaneki loses the ability to stomach human food, often getting sick or vomiting when ingesting any, and gains the powers of regeneration and kagune usage as a result. Because of his morals and attachment to humanity, Kaneki refuses to consume human beings as a means to sustain himself, even when the meat is obtained through non-violent means, rather he consumes large amounts of coffee, and, when absolutely necessary, will cannibalize other ghouls.",
+            "https://cdn.myanimelist.net/images/characters/9/251339.jpg"
+        ),
     )
 }
